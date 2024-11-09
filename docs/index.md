@@ -28,11 +28,11 @@ The detailed algorithm of spglib is described the following text:
 - "$\texttt{Spglib}$: a software library for crystal symmetry search", Atsushi
   Togo, Kohei Shinohara, and Isao Tanaka, Sci. Technol. Adv. Mater., Meth. 4,
   2384822-2384836 (2024)
-  \[[link-sg](https://www.tandfonline.com/doi/full/10.1080/27660400.2024.2384822)\]
+  \[[link-sg](https://doi.org/10.1080/27660400.2024.2384822)\]
 - "Algorithms for magnetic symmetry operation search and identification of
   magnetic space group from magnetic crystal structure", Kohei Shinohara,
   Atsushi Togo, and Isao Tanaka, Acta Cryst. A 79, 390-398 (2023)
-  \[[link-msg](https://onlinelibrary.wiley.com/iucr/doi/10.1107/S2053273323005016)\]
+  \[[link-msg](https://doi.org/10.1107/S2053273323005016)\]
 
 ## Requirements
 
