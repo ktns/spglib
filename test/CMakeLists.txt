@@ -83,7 +83,7 @@ set(INSTALL_GTEST OFF)
 set(gtest_disable_pthreads ON)
 FetchContent_Declare(GTest
         GIT_REPOSITORY https://github.com/google/googletest
-        GIT_TAG v1.13.0
+        GIT_TAG v1.15.2
         FIND_PACKAGE_ARGS CONFIG
 )
 list(APPEND external_libs GTest)
