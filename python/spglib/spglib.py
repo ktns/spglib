@@ -642,7 +642,7 @@ def get_symmetry(
         warnings.warn(
             "Use get_magnetic_symmetry() for cell with magnetic moments.",
             DeprecationWarning,
-            stacklevel=2,
+            stacklevel=1,
         )
         return get_magnetic_symmetry(
             cell,
